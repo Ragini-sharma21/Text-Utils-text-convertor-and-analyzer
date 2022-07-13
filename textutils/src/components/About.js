@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react'//about
 
 export default function About(props) {
 
