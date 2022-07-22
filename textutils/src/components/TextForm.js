@@ -1,4 +1,4 @@
-import React, {useState} from 'react' //textform
+import React, {useState} from 'react' //textform code
 
 export default function TextForm(props) {
 
